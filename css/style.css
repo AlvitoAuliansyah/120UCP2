@@ -1,0 +1,44 @@
+.hero-banner{
+    background-image: url("https://wallpapercave.com/wp/wp5351220.jpg");
+    background-size: cover;
+    height: 300px;
+    background-position:center;
+    background-repeat: no-repeat;
+}
+
+.navbar-custom {
+    background-color: #000000;
+}
+
+.navbar-brand {
+    color:#E8F0F2;
+}
+
+.btn-brand {
+    background-color: #DFCFBE;
+    color:#E8F0F2;
+}
+
+.btn-danger {
+    background-color: #ff00009a;
+    color:#E8F0F2;
+}
+
+.btn-secondary {
+    color:#E8F0F2;
+}
+
+body {
+    background-color:#E8F0F2;
+    color:#053742;
+}
+
+.card{
+    background-color:#cbcba9;
+    color:#053742;
+}
+
+.modal-content{
+    background-color:#A2DBFA;
+    color:#053742;
+}
